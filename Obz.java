@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 import java.util.Scanner;
-//liczby pierwsze
+//liczby pierwsze, po zmianie
 class liczby_pierwsze
 {
         public static void main(String[] args)
